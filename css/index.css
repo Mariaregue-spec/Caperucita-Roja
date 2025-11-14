@@ -2,6 +2,7 @@ body{
    text-align: center;
    font-size: 60px;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: bisque;
 }
 header{
    text-align: center;
@@ -40,4 +41,9 @@ header{
 }
 .loboComeCaperucita{
    width: 500px; 
+}
+footer{
+   .Bosque{
+      width: 500px;
+   }
 }
