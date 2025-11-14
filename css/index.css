@@ -20,6 +20,23 @@ header{
    text-align: center;
    font-size: 50%;
    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   font-style: italic;
-   
+   font-style: italic;  
+}
+.caperucitaPorBosque{
+   width: 500px;
+}
+.praderaConFlores{
+   width: 500px; 
+}
+.apareceLoboBosque{
+   width: 500px;
+}
+.caminoBosqueFlores{
+   width: 500px;
+}
+.loboCamaDisfrazado{
+   width: 500px;
+}
+.loboComeCaperucita{
+   width: 500px; 
 }
