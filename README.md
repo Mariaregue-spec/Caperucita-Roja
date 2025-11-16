@@ -18,7 +18,6 @@ https://mariaregue-spec.github.io/Caperucita-Roja/
 <ul>
 <h3>Cómo visualizar el proyecto</h3>
     <p>No se requiere instalación de dependencias ni servidor externo.</p>
-    <h4>Opción 1: Acceso directo</h4>
     <p>Abra el archivo <a href="https://mariaregue-spec.github.io/Caperucita-Roja/"> clic aquí para ir al cuento</a> en cualquier navegador moderno.</p>
 <h3>Ilustraciones</h3>
     <P>Todas las imágenes utilizadas provienen de bancos de recursos libres de derechos.</p>
