@@ -10,12 +10,12 @@ https://mariaregue-spec.github.io/Caperucita-Roja/
     <li>Diseño responsivo que se adapta a diferentes dispositivos.</li>
     <li>Navegación sencilla mediante secciones ancladas.</li>
     <li>Código organizado y fácil de mantener.</li>
-<ul>
+</ul>
 <h3>Tecnologías utilizadas</h3>
 <ul>
     <li>HTML5 – Estructura y contenido.</li>
     <li>CSS – Estilos, diseño y distribución visual.</li>
-<ul>
+</ul>
 <h3>Cómo visualizar el proyecto</h3>
     <p>No se requiere instalación de dependencias ni servidor externo.</p>
     <p>Abra el archivo <a href="https://mariaregue-spec.github.io/Caperucita-Roja/"> clic aquí para ir al cuento</a> en cualquier navegador moderno.</p>
