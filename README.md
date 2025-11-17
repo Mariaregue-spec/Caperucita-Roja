@@ -22,6 +22,7 @@ https://mariaregue-spec.github.io/Caperucita-Roja/
 <h3>Ilustraciones</h3>
     <P>Todas las imágenes utilizadas provienen de bancos de recursos libres de derechos.</p>
     <img src="images/Portada caperucita Roja.jpg" alt="Portada del libro Caperucita Roja" class="imagenDePortada">
+    <img src="images/Ejemplo ilustraciones.png" alt="Ilustraciones del cuento">
 <h3> <a href="https://www.canva.com/design/DAG4raxdLm4/D4kmhNm5VoDlCi2dvKcCRQ/edit?utm_content=DAG4raxdLm4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Presentación</a></h3> 
 <h3>Autor</h3>
     <p>Proyecto desarrollado por María Regueiro Ramil</p>
