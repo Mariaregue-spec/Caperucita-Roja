@@ -1,4 +1,4 @@
-# Caperucita-Roja#
+# Caperucita-Roja
 https://mariaregue-spec.github.io/Caperucita-Roja/
 <p>Este proyecto consiste en una página web estática desarrollada en HTML5 y CSS, basada en el cuento clásico Caperucita Roja. El sitio presenta la historia de forma clara y visual, utilizando ilustraciones libres de derechos y una estructura diseñada para facilitar su lectura y uso con fines educativos o demostrativos.</p>
 <h3>Descripción del proyecto</h3>
